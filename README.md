@@ -4,7 +4,7 @@
 
 ## 在线演示
 
-https://zhaohuic51-ops.github.io/golden-interviewer-deck/
+https://zhaohuic51-ops.github.io/golden-interviewer/
 
 ## 本地打开
 
